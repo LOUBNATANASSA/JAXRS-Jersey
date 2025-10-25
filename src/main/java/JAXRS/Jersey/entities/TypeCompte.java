@@ -1,4 +1,5 @@
 package JAXRS.Jersey.entities;
 
-public class TypeCompte {
+public enum TypeCompte {
+    COURANT, EPARGNE
 }
